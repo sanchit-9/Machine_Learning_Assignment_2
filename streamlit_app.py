@@ -123,6 +123,16 @@ if app_mode == "Training":
 # --- Inference Mode (Existing functionality) ---
 else: # app_mode == "Inference"
     st.header("Inference Mode")
+    test_data_viral_path = 'test_data_viral.csv'
+    st.write("\n")
+    with open(test_data_viral_path, "rb") as f:
+        st.download_button(
+            label="Download Test Data (test_data_viral.csv)",
+            data=f,
+            file_name="test_data_viral.csv",
+            mime="text/csv"
+        )
+    st.write("\n")
     st.write(
         "Upload your new social media content data (CSV format) to predict virality."
         "The app will preprocess your data, make predictions using your chosen model,"
