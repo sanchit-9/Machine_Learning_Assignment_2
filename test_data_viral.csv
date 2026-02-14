@@ -1,0 +1,401 @@
+platform,content_type,topic,language,region,views,likes,comments,shares,engagement_rate,sentiment_score,is_viral
+X,video,Education,es,Brazil,9672768,403032,41568,33350,0.0494,0.105,1
+YouTube Shorts,video,Sports,hi,India,529700,26485,38163,23020,0.1655,0.086,0
+X,carousel,Technology,hi,India,4753065,206655,32340,81396,0.0674,0.751,1
+TikTok,image,Education,ur,UK,2377650,475530,38261,85948,0.2522,0.791,1
+X,video,Politics,fr,Pakistan,4872375,194895,42427,51414,0.0593,-0.132,1
+X,text,Lifestyle,en,UK,1481059,51071,27286,28092,0.0719,-0.889,0
+X,video,Technology,es,Pakistan,4445265,404115,5557,28917,0.0987,-0.714,1
+X,carousel,Education,es,US,3880320,388032,29720,23807,0.1138,0.335,1
+TikTok,carousel,Politics,fr,India,3241188,360132,39795,5601,0.1251,-0.54,1
+TikTok,video,Sports,es,US,5703401,196669,183,86007,0.0496,-0.696,1
+TikTok,image,Entertainment,ur,Brazil,6426792,267783,42410,53352,0.0566,0.161,1
+YouTube Shorts,text,Sports,fr,India,7677072,284336,495,3730,0.0376,-0.512,1
+YouTube Shorts,text,Education,es,UK,3120936,111462,49914,28808,0.0609,0.937,1
+TikTok,carousel,Technology,fr,Brazil,4489056,280566,22365,62293,0.0814,-0.301,1
+Instagram,video,Entertainment,ur,UK,8747016,364459,26294,3390,0.0451,-0.321,1
+Instagram,text,Lifestyle,es,Brazil,5378310,256110,24068,72356,0.0655,0.443,1
+Instagram,text,Lifestyle,hi,Brazil,6556059,242817,18696,99533,0.0551,0.441,1
+TikTok,video,Sports,es,India,3468624,433578,37085,1325,0.1361,-0.3,1
+X,text,Sports,ur,US,246148,17582,9323,41257,0.2769,-0.889,0
+TikTok,carousel,Entertainment,es,UK,125120,15640,35681,70249,0.9716,-0.904,0
+YouTube Shorts,carousel,Entertainment,fr,Pakistan,8380188,364356,16720,44410,0.0508,-0.29,1
+TikTok,video,Technology,ur,India,6119072,382442,24850,89847,0.0812,-0.379,1
+YouTube Shorts,text,Sports,ur,US,8390124,364788,18711,43517,0.0509,-0.961,1
+TikTok,image,Entertainment,hi,Pakistan,2680224,111676,29528,71089,0.0792,-0.76,1
+YouTube Shorts,carousel,Technology,fr,Pakistan,4585532,327538,13937,29300,0.0809,-0.621,1
+Instagram,video,Politics,fr,Pakistan,10165036,363037,9828,60161,0.0426,0.317,1
+YouTube Shorts,video,Sports,en,Brazil,6974540,348727,29983,87593,0.0669,-0.317,1
+TikTok,image,Lifestyle,fr,UK,7605440,380272,39183,32822,0.0595,-0.595,1
+Instagram,video,Education,es,India,5828325,388555,13384,54255,0.0783,-0.48,1
+Instagram,video,Lifestyle,fr,US,2013582,105978,6379,56045,0.0836,0.511,1
+Instagram,text,Sports,fr,Pakistan,1679532,98796,44903,50940,0.1159,0.798,0
+X,video,Entertainment,fr,India,548028,42156,33277,14672,0.1644,-0.03,0
+Instagram,carousel,Education,ur,Brazil,686736,42921,13498,17070,0.107,-0.729,0
+YouTube Shorts,video,Politics,hi,UK,2822690,282269,4463,63611,0.1241,-0.145,1
+TikTok,carousel,Sports,ur,Brazil,5908078,268549,32731,18783,0.0542,0.791,1
+TikTok,video,Lifestyle,hi,US,4590950,327925,37783,81572,0.0974,-0.096,1
+TikTok,text,Entertainment,hi,Brazil,1031295,68753,36934,48292,0.1493,0.362,0
+X,video,Sports,hi,Brazil,288560,28856,6045,10305,0.1567,-0.289,0
+X,text,Education,ur,US,4586526,218406,19743,10704,0.0543,-0.986,1
+X,text,Entertainment,en,US,710206,101458,13580,64930,0.2534,-0.514,0
+Instagram,carousel,Sports,ur,UK,2241404,203764,11521,44262,0.1158,-0.148,1
+X,image,Entertainment,fr,Brazil,4533543,167909,31896,24125,0.0494,-0.388,1
+Instagram,text,Sports,ur,Pakistan,1272564,106047,26404,85383,0.1712,-0.946,0
+TikTok,video,Technology,fr,Pakistan,8819500,352780,6309,7346,0.0415,-0.549,1
+TikTok,text,Sports,en,Brazil,1348347,103719,10571,33086,0.1093,0.432,0
+TikTok,image,Politics,en,Brazil,9746750,389870,2876,46003,0.045,0.033,1
+X,text,Technology,en,India,3596772,299731,28416,33362,0.1005,0.621,1
+Instagram,video,Entertainment,hi,India,2360850,472170,17205,65619,0.2351,-0.559,1
+Instagram,video,Education,es,Brazil,3102975,124119,195,10493,0.0434,-0.618,1
+Instagram,text,Politics,en,India,420090,38190,11237,59413,0.2591,0.949,0
+TikTok,image,Lifestyle,en,US,151850,30370,10391,64818,0.6953,-0.776,0
+Instagram,image,Entertainment,hi,US,3441283,149621,33541,64078,0.0718,-0.093,1
+YouTube Shorts,text,Technology,en,US,241563,34509,49628,19325,0.4283,-0.387,0
+X,video,Education,ur,UK,398110,39811,11959,73341,0.3143,0.08,0
+TikTok,carousel,Entertainment,ur,India,8722402,335477,24422,81983,0.0507,0.57,1
+X,carousel,Technology,en,UK,10886986,494863,49805,88535,0.0582,0.246,1
+X,text,Politics,hi,UK,1970040,394008,28931,99783,0.2653,-0.354,0
+YouTube Shorts,text,Technology,es,Pakistan,4184480,209224,47063,74095,0.079,0.626,1
+Instagram,text,Education,hi,India,2735689,118943,21062,28993,0.0618,0.096,1
+Instagram,image,Sports,ur,Brazil,5343366,254446,29764,85709,0.0692,-0.977,1
+X,video,Lifestyle,en,UK,769785,153957,12822,31407,0.2575,-0.213,0
+TikTok,image,Sports,fr,US,3223020,322302,11782,99933,0.1347,0.658,1
+X,carousel,Sports,ur,US,3849330,384933,16826,43163,0.1156,0.002,1
+Instagram,text,Entertainment,ur,India,2313871,330553,45932,75415,0.1953,-0.178,1
+TikTok,carousel,Politics,hi,Pakistan,3222752,123952,19235,26709,0.0527,-0.343,1
+X,carousel,Politics,en,India,3498390,166590,46373,47086,0.0743,0.981,1
+X,image,Entertainment,en,US,4911750,327450,30931,36608,0.0804,-0.989,1
+X,carousel,Lifestyle,hi,Brazil,2258652,205332,47167,836,0.1122,-0.487,1
+YouTube Shorts,video,Sports,es,India,6190780,309539,48821,83043,0.0713,-0.745,1
+X,image,Education,fr,India,9130317,480543,24909,59936,0.0619,0.76,1
+YouTube Shorts,carousel,Lifestyle,hi,UK,8613868,374516,25543,43966,0.0515,-0.035,1
+YouTube Shorts,carousel,Education,hi,UK,1718346,245478,14030,8947,0.1562,-0.559,0
+X,image,Education,es,India,7959224,306124,48472,8321,0.0456,-0.764,1
+Instagram,video,Lifestyle,fr,Brazil,9473628,498612,27564,72308,0.0632,0.821,1
+Instagram,image,Entertainment,hi,US,4856409,179867,44457,32442,0.0529,-0.012,1
+Instagram,image,Technology,ur,Pakistan,3496599,388511,9908,3021,0.1148,0.983,1
+TikTok,image,Technology,ur,Brazil,116275,4651,2828,54881,0.5363,0.343,0
+TikTok,text,Education,fr,UK,639171,49167,41480,21608,0.1756,-0.522,0
+YouTube Shorts,carousel,Education,hi,Brazil,973275,194655,49158,6369,0.2571,0.765,0
+YouTube Shorts,image,Entertainment,ur,Pakistan,6516045,241335,18166,7491,0.041,0.404,1
+TikTok,image,Lifestyle,hi,India,2512972,358996,306,45237,0.161,0.961,1
+X,text,Entertainment,en,UK,5163516,286862,34680,18920,0.0659,0.407,1
+TikTok,video,Entertainment,fr,India,966112,60382,47806,9466,0.1218,0.812,0
+Instagram,carousel,Lifestyle,ur,India,1640111,149101,1075,88443,0.1455,0.022,0
+X,carousel,Entertainment,en,UK,1406592,117216,37760,8734,0.1164,0.764,0
+X,carousel,Education,ur,US,1509014,58039,20919,29554,0.0719,0.308,0
+X,image,Entertainment,ur,Brazil,2843232,236936,29414,19463,0.1005,-0.619,1
+Instagram,carousel,Sports,ur,Pakistan,94338,10482,4442,70972,0.9105,-0.218,0
+X,image,Lifestyle,hi,India,409296,34108,65,74667,0.2659,-0.13,0
+Instagram,image,Sports,ur,Brazil,795942,113706,14655,46119,0.2192,-0.482,0
+YouTube Shorts,carousel,Entertainment,hi,Pakistan,7867662,357621,42868,81838,0.0613,0.309,1
+X,text,Lifestyle,hi,India,1672728,139394,24079,29826,0.1156,0.134,0
+YouTube Shorts,video,Lifestyle,en,UK,11408397,393393,40350,20612,0.0398,0.754,1
+Instagram,image,Lifestyle,ur,US,1377360,172170,28540,6641,0.1505,0.581,0
+Instagram,text,Politics,ur,UK,4440128,261184,29828,7870,0.0673,0.494,1
+Instagram,image,Education,es,US,11842038,455463,32568,36487,0.0443,-0.172,1
+Instagram,carousel,Technology,fr,UK,3742706,340246,28808,18231,0.1035,-0.737,1
+YouTube Shorts,image,Entertainment,es,India,1836648,83484,395,87536,0.0933,-0.197,0
+TikTok,image,Technology,es,US,1993556,104924,33427,88742,0.1139,-0.872,0
+TikTok,video,Technology,hi,Pakistan,9991580,499579,44753,29378,0.0574,-0.478,1
+Instagram,text,Politics,es,Pakistan,4014704,250919,12361,98500,0.0901,-0.5,1
+Instagram,carousel,Sports,es,Pakistan,637497,30357,14216,95990,0.2205,-0.078,0
+YouTube Shorts,text,Technology,es,UK,2014467,287781,35762,77577,0.1991,0.085,1
+X,image,Sports,fr,US,4234995,470555,13334,71793,0.1312,0.373,1
+Instagram,image,Entertainment,es,UK,1092364,42014,4976,79027,0.1154,-0.647,0
+X,carousel,Lifestyle,fr,US,5126534,366181,5760,65304,0.0853,0.38,1
+X,carousel,Politics,hi,Pakistan,7123599,339219,41860,81558,0.0649,0.683,1
+X,video,Education,fr,India,10299933,381479,41129,86926,0.0495,0.793,1
+X,carousel,Lifestyle,en,Brazil,1784133,198237,26175,8439,0.1305,0.12,0
+Instagram,carousel,Technology,hi,US,1226808,68156,3086,34197,0.0859,0.232,0
+YouTube Shorts,video,Lifestyle,ur,US,12124632,466332,26677,4214,0.041,0.032,1
+X,image,Politics,en,US,434512,33424,13398,1553,0.1113,0.78,0
+Instagram,text,Entertainment,hi,Brazil,5802783,276323,49855,72780,0.0688,0.459,1
+X,video,Technology,hi,Pakistan,13973960,499070,11100,57573,0.0406,0.286,1
+YouTube Shorts,carousel,Lifestyle,es,Pakistan,4976868,382836,28104,54041,0.0934,-0.789,1
+X,video,Entertainment,es,UK,7793128,278326,666,37413,0.0406,0.95,1
+Instagram,text,Sports,es,Pakistan,787720,78772,594,86445,0.2105,0.131,0
+Instagram,video,Sports,en,India,13306950,492850,43400,24032,0.0421,0.967,1
+TikTok,text,Lifestyle,es,India,8301216,395296,48295,26432,0.0566,0.303,1
+TikTok,carousel,Politics,ur,UK,4649710,178835,355,83849,0.0566,0.278,1
+YouTube Shorts,video,Education,en,US,1479096,164344,18110,64341,0.1669,-0.941,0
+YouTube Shorts,text,Education,es,UK,3649322,214666,46156,48921,0.0849,0.323,1
+X,video,Education,fr,UK,6835128,284797,24371,44037,0.0517,-0.5,1
+X,carousel,Education,hi,UK,2897388,160966,5453,50332,0.0748,-0.798,1
+X,text,Entertainment,ur,India,7518160,289160,44970,4649,0.0451,0.741,1
+X,image,Education,en,India,3967984,495998,11187,90370,0.1506,0.497,1
+TikTok,video,Politics,fr,UK,2789955,398565,19206,58577,0.1707,0.461,1
+YouTube Shorts,image,Politics,es,India,12301848,473148,15443,48443,0.0437,0.878,1
+Instagram,text,Sports,fr,Pakistan,1310112,72784,18753,79559,0.1306,-0.731,0
+X,carousel,Sports,en,US,11585210,445585,38564,74320,0.0482,0.236,1
+YouTube Shorts,video,Technology,es,India,2347220,234722,41157,27251,0.1291,-0.711,1
+Instagram,carousel,Sports,ur,India,2267122,103051,42775,86339,0.1024,-0.28,1
+TikTok,carousel,Entertainment,ur,India,456030,25335,164,12146,0.0825,-0.074,0
+YouTube Shorts,video,Politics,en,US,7824908,300958,49150,77426,0.0546,-0.452,1
+X,text,Sports,ur,India,2162840,108142,13984,28329,0.0696,0.273,1
+TikTok,text,Lifestyle,ur,US,6114675,291175,9295,38368,0.0554,0.352,1
+Instagram,carousel,Education,es,US,3446729,265133,9574,87194,0.105,-0.338,1
+YouTube Shorts,video,Politics,es,India,2756073,95037,41553,72091,0.0757,-0.092,1
+Instagram,carousel,Sports,es,US,4398480,293232,44448,76449,0.0942,-0.104,1
+YouTube Shorts,text,Education,fr,Brazil,1760780,62885,10519,22739,0.0546,-0.817,0
+X,image,Technology,hi,UK,1831776,228972,43633,46217,0.1741,-0.468,0
+X,image,Entertainment,ur,Brazil,715286,32513,34806,55620,0.1719,-0.533,0
+YouTube Shorts,carousel,Education,fr,UK,4222088,324776,13105,57706,0.0937,0.248,1
+YouTube Shorts,image,Lifestyle,ur,Brazil,7581605,329635,40898,13795,0.0507,-0.207,1
+TikTok,carousel,Education,fr,UK,5683408,355213,25962,6524,0.0682,0.028,1
+YouTube Shorts,text,Technology,hi,US,9374961,407607,46809,76972,0.0567,0.774,1
+X,image,Entertainment,hi,US,1634990,163499,42075,85926,0.1783,0.783,0
+Instagram,text,Education,fr,Brazil,926352,102928,6564,84695,0.2096,0.527,0
+Instagram,carousel,Politics,fr,Brazil,6098994,338833,22121,36245,0.0651,-0.627,1
+Instagram,image,Sports,en,US,2608397,237127,1172,27193,0.1018,-0.818,1
+X,text,Technology,en,India,2024037,224893,37392,21576,0.1402,-0.12,1
+X,carousel,Education,en,US,34356,2863,27379,55481,2.4951,0.936,0
+X,image,Education,ur,Pakistan,6682284,238653,4084,36117,0.0417,-0.826,1
+X,image,Entertainment,hi,US,496264,29192,17658,98000,0.2919,0.212,0
+X,carousel,Sports,ur,UK,8244404,433916,25285,90094,0.0666,-0.144,1
+TikTok,carousel,Entertainment,fr,India,3424320,214020,37802,67642,0.0933,0.956,1
+X,image,Technology,es,UK,477393,68199,36065,94734,0.4168,-0.87,0
+YouTube Shorts,video,Sports,en,Brazil,12304410,424290,23102,93145,0.0439,-0.577,1
+Instagram,image,Education,en,UK,2268216,252024,28233,34522,0.1388,0.131,1
+TikTok,text,Education,es,Pakistan,7458780,266385,23355,75083,0.0489,-0.529,1
+Instagram,text,Entertainment,hi,US,3567518,209854,13659,52894,0.0775,0.659,1
+YouTube Shorts,carousel,Lifestyle,fr,UK,3797472,158228,6619,7416,0.0454,-0.15,1
+TikTok,text,Sports,en,India,91504,11438,417,7544,0.212,-0.164,0
+YouTube Shorts,carousel,Politics,hi,UK,7825290,340230,10685,10069,0.0461,0.97,1
+YouTube Shorts,carousel,Technology,en,US,9473310,430605,33897,71197,0.0565,0.176,1
+YouTube Shorts,text,Politics,fr,US,2259922,161423,12378,84524,0.1143,0.841,1
+Instagram,text,Sports,ur,Brazil,10757468,467716,36450,5797,0.0474,0.921,1
+X,text,Technology,hi,US,7766902,298727,47650,73374,0.054,-0.046,1
+Instagram,carousel,Entertainment,es,UK,5251092,477372,43308,59208,0.1104,0.428,1
+X,image,Entertainment,es,Brazil,4978545,382965,27689,26394,0.0878,0.318,1
+TikTok,carousel,Sports,hi,India,4302150,187050,36348,58220,0.0655,-0.241,1
+TikTok,video,Education,hi,Brazil,4718805,224705,6444,22786,0.0538,0.39,1
+Instagram,image,Technology,ur,US,8155380,281220,34263,56867,0.0457,0.707,1
+Instagram,carousel,Entertainment,es,Pakistan,966399,56847,45717,6274,0.1126,0.259,0
+YouTube Shorts,image,Sports,en,Brazil,2083220,104161,32561,78132,0.1031,0.88,1
+YouTube Shorts,carousel,Technology,hi,US,6039747,287607,2800,97463,0.0642,-0.635,1
+X,carousel,Technology,es,US,2055240,186840,20968,50125,0.1255,0.759,1
+Instagram,text,Education,fr,Pakistan,6080529,467733,5608,34981,0.0836,-0.384,1
+Instagram,image,Technology,ur,UK,3428096,122432,37628,22932,0.0534,-0.447,1
+YouTube Shorts,video,Entertainment,ur,US,9546380,477319,34813,67289,0.0607,-0.154,1
+YouTube Shorts,text,Sports,es,Brazil,1973526,328921,25430,84818,0.2225,0.175,0
+TikTok,image,Sports,ur,UK,3311035,254695,45676,90307,0.118,0.875,1
+TikTok,carousel,Lifestyle,hi,India,2480754,130566,1782,50375,0.0737,-0.361,1
+Instagram,carousel,Education,hi,India,1243596,103633,16314,69591,0.1524,0.789,0
+YouTube Shorts,text,Education,hi,UK,1165027,68531,5371,8712,0.0709,0.708,0
+Instagram,text,Sports,en,UK,4618640,288665,1713,3631,0.0637,-0.924,1
+Instagram,video,Entertainment,es,Brazil,2638432,329804,16718,2487,0.1323,-0.069,1
+YouTube Shorts,carousel,Lifestyle,fr,UK,3036708,168706,37965,39391,0.081,-0.317,1
+Instagram,carousel,Sports,ur,US,1364505,80265,8391,17047,0.0775,-0.456,0
+Instagram,image,Entertainment,es,UK,5542950,369530,19958,40476,0.0776,0.939,1
+YouTube Shorts,text,Education,es,UK,3403608,261816,7244,6711,0.081,-0.208,1
+X,image,Politics,ur,India,1925680,192568,40765,81183,0.1633,0.464,0
+YouTube Shorts,carousel,Entertainment,fr,Brazil,5208084,289338,46045,66767,0.0772,0.832,1
+Instagram,text,Lifestyle,ur,Pakistan,5108532,196482,44414,55177,0.058,-0.845,1
+TikTok,video,Technology,ur,US,1098930,219786,35158,11112,0.2421,0.351,0
+TikTok,text,Politics,es,Brazil,1625124,135427,14489,56550,0.127,0.302,0
+X,video,Education,es,India,9622350,384894,49425,75505,0.053,-0.592,1
+Instagram,image,Entertainment,ur,Pakistan,9422233,495907,12117,75226,0.0619,0.013,1
+TikTok,text,Education,en,India,2412498,402083,22857,79240,0.209,0.683,1
+TikTok,carousel,Technology,hi,UK,4151784,148278,46294,8721,0.049,0.634,1
+YouTube Shorts,image,Technology,ur,Brazil,10952578,421253,49513,41832,0.0468,0.499,1
+YouTube Shorts,image,Sports,en,India,4605120,230256,42681,39072,0.0678,0.624,1
+X,text,Lifestyle,es,Pakistan,12489360,480360,21974,36669,0.0432,-0.823,1
+YouTube Shorts,video,Education,es,India,2951998,421714,41867,98669,0.1905,-0.599,1
+X,image,Sports,fr,India,6670566,247058,48325,47415,0.0514,0.889,1
+Instagram,video,Entertainment,en,Brazil,4889625,325975,49693,99930,0.0973,0.846,1
+Instagram,carousel,Entertainment,en,US,453629,41239,49388,41303,0.2908,-0.124,0
+TikTok,text,Politics,ur,India,3809240,380924,17302,71895,0.1234,0.365,1
+X,video,Education,hi,Brazil,4062240,156240,196,90611,0.0608,-0.825,1
+TikTok,image,Education,fr,UK,8806000,314500,23604,35223,0.0424,0.332,1
+YouTube Shorts,carousel,Sports,fr,US,1866192,77758,34845,31008,0.077,0.09,0
+Instagram,text,Technology,fr,India,1980177,116481,14378,47334,0.09,-0.027,0
+TikTok,video,Lifestyle,fr,Pakistan,1085756,77554,25069,27936,0.1202,0.177,0
+Instagram,image,Lifestyle,es,Pakistan,4747650,474765,35245,60005,0.1201,0.799,1
+YouTube Shorts,text,Education,en,UK,8165780,408289,5624,59501,0.058,0.547,1
+X,carousel,Politics,fr,Brazil,2030756,78106,49868,87909,0.1063,-0.271,1
+Instagram,image,Technology,es,Pakistan,12927519,478797,25597,28142,0.0412,0.61,1
+TikTok,video,Education,es,UK,7095175,283807,39346,5777,0.0464,-0.693,1
+Instagram,text,Technology,es,US,4472304,372692,29264,50139,0.1011,0.591,1
+YouTube Shorts,carousel,Lifestyle,hi,UK,5743501,337853,35419,5210,0.0659,-0.212,1
+X,image,Lifestyle,en,UK,4251828,303702,23506,21114,0.0819,0.269,1
+Instagram,carousel,Education,es,US,2820432,235036,851,10955,0.0875,-0.047,1
+TikTok,text,Technology,ur,India,8054376,366108,15897,47300,0.0533,-0.178,1
+X,text,Entertainment,hi,India,707733,78637,16513,85167,0.2548,-0.386,0
+X,video,Lifestyle,ur,India,4470662,319333,46433,16609,0.0855,0.182,1
+TikTok,video,Politics,fr,Pakistan,1519602,108543,34081,55284,0.1302,0.58,0
+YouTube Shorts,image,Politics,en,Brazil,6724512,420282,16178,59890,0.0738,0.911,1
+YouTube Shorts,carousel,Sports,fr,Pakistan,7958540,397927,27668,51992,0.06,0.285,1
+X,image,Sports,hi,UK,30800,1232,38264,96613,4.4191,0.09,0
+X,carousel,Education,es,Brazil,5425926,493266,32786,70136,0.1099,-0.282,1
+X,image,Sports,fr,Brazil,8170632,340443,25323,33735,0.0489,-0.546,1
+YouTube Shorts,carousel,Entertainment,es,US,7313098,281273,32270,43873,0.0489,0.643,1
+X,carousel,Entertainment,en,India,1105200,184200,37388,29484,0.2272,0.59,0
+Instagram,carousel,Entertainment,en,India,3406440,141935,3913,93110,0.0701,-0.224,1
+Instagram,image,Lifestyle,fr,US,275720,27572,40035,26850,0.3426,0.054,0
+X,carousel,Technology,fr,US,4146142,218218,44069,7814,0.0651,-0.023,1
+Instagram,image,Education,ur,India,4287128,252184,41190,92950,0.0901,-0.306,1
+YouTube Shorts,video,Sports,ur,UK,1774101,84481,41248,62913,0.1063,-0.229,0
+X,text,Sports,hi,India,4739151,249429,5459,91718,0.0731,0.725,1
+Instagram,video,Sports,hi,US,2937438,209817,2028,59797,0.0925,0.239,1
+YouTube Shorts,text,Education,ur,India,3855384,481923,38338,80906,0.1559,0.25,1
+Instagram,image,Education,es,US,5784720,361545,14395,87476,0.0801,-0.826,1
+YouTube Shorts,text,Politics,fr,India,537342,20667,29744,57805,0.2014,0.084,0
+TikTok,video,Sports,fr,US,8722700,348908,18262,12856,0.0436,-0.177,1
+Instagram,image,Lifestyle,es,UK,2469640,246964,14825,76428,0.1369,0.309,1
+X,carousel,Lifestyle,hi,Brazil,11306646,434871,46964,729,0.0427,-0.405,1
+YouTube Shorts,carousel,Entertainment,ur,US,1681740,93430,28788,82535,0.1218,-0.586,0
+X,text,Education,hi,Pakistan,1495104,249184,23166,32874,0.2041,-0.391,0
+Instagram,carousel,Entertainment,es,UK,1450707,76353,36196,10212,0.0846,-0.536,0
+TikTok,image,Sports,ur,Pakistan,1923082,137363,17903,84519,0.1247,0.545,0
+X,text,Sports,es,UK,2947184,184199,23994,24520,0.079,-0.29,1
+X,carousel,Sports,hi,India,558161,32833,20149,2051,0.0986,-0.291,0
+Instagram,text,Lifestyle,fr,Pakistan,6357723,334617,34222,20885,0.0613,0.641,1
+Instagram,text,Technology,fr,UK,3270162,233583,31987,98865,0.1114,0.079,1
+YouTube Shorts,video,Education,hi,US,9114729,314301,14264,80410,0.0449,0.383,1
+X,carousel,Lifestyle,hi,US,1453872,207696,40451,97058,0.2374,-0.507,0
+X,video,Politics,es,India,3348760,418595,43368,26202,0.1458,-0.9,1
+Instagram,image,Education,en,UK,8589408,357892,25561,59043,0.0515,0.811,1
+X,image,Sports,hi,Pakistan,4896824,168856,23189,33366,0.046,-0.193,1
+TikTok,image,Lifestyle,en,Pakistan,513288,42774,29127,82477,0.3008,0.148,0
+TikTok,carousel,Politics,en,Pakistan,4840182,268899,40946,70032,0.0785,0.78,1
+YouTube Shorts,image,Sports,en,India,4154025,276935,4316,48076,0.0793,-0.609,1
+Instagram,text,Entertainment,ur,UK,11719656,488319,29728,69164,0.0501,0.785,1
+YouTube Shorts,image,Technology,en,Brazil,839025,33561,41120,96888,0.2045,0.16,0
+TikTok,image,Technology,es,Pakistan,561918,33054,47453,35304,0.2061,0.78,0
+TikTok,carousel,Lifestyle,ur,Brazil,7437294,413183,18630,6379,0.0589,0.376,1
+X,image,Sports,fr,UK,1633680,163368,5631,7425,0.108,-0.54,0
+Instagram,image,Entertainment,en,India,3176599,138113,25939,23387,0.059,0.808,1
+Instagram,carousel,Sports,fr,US,3051216,108972,19221,93071,0.0725,0.212,1
+TikTok,carousel,Education,en,India,5807600,232304,29871,30677,0.0504,-0.909,1
+TikTok,text,Lifestyle,fr,US,12565228,483278,35432,40278,0.0445,0.485,1
+TikTok,carousel,Politics,en,US,6478056,359892,28518,2957,0.0604,-0.779,1
+YouTube Shorts,carousel,Politics,ur,Pakistan,779672,97459,23296,41569,0.2082,0.266,0
+TikTok,text,Lifestyle,es,Brazil,3970191,172617,47641,73928,0.0741,0.262,1
+TikTok,text,Education,fr,India,1682031,98943,10979,38384,0.0882,-0.804,0
+YouTube Shorts,video,Politics,es,Pakistan,4518500,225925,39296,12398,0.0614,0.129,1
+Instagram,video,Entertainment,es,Pakistan,2520000,315000,49826,56482,0.1672,0.994,1
+Instagram,text,Lifestyle,hi,US,7997366,420914,11568,46820,0.0599,-0.211,1
+X,carousel,Entertainment,hi,UK,6665160,444344,27205,95108,0.085,0.392,1
+Instagram,text,Technology,ur,US,1320940,132094,33192,51357,0.164,0.505,0
+Instagram,text,Education,ur,Pakistan,2095578,77614,24604,35772,0.0658,0.717,1
+TikTok,text,Technology,es,Brazil,3967707,172509,40330,83601,0.0747,0.481,1
+YouTube Shorts,video,Education,hi,US,4766130,476613,15228,72238,0.1184,-0.547,1
+TikTok,image,Lifestyle,fr,Pakistan,5039616,209984,19994,78283,0.0612,0.616,1
+YouTube Shorts,video,Entertainment,hi,Brazil,4438056,369838,18066,2882,0.0881,-0.743,1
+YouTube Shorts,video,Politics,hi,UK,1286430,257286,46765,94180,0.3096,-0.964,0
+Instagram,image,Sports,en,Brazil,578540,115708,7569,27346,0.2604,0.772,0
+YouTube Shorts,text,Entertainment,ur,US,6037318,431237,4903,18563,0.0753,0.969,1
+X,video,Entertainment,hi,US,24684,4114,11098,18071,1.3484,-0.492,0
+TikTok,video,Technology,hi,US,7204098,327459,13056,6950,0.0482,0.18,1
+Instagram,image,Sports,es,India,7493505,394395,29855,46752,0.0629,-0.173,1
+YouTube Shorts,video,Education,es,Brazil,3054618,113134,43338,40829,0.0646,-0.788,1
+X,carousel,Lifestyle,fr,UK,895430,179086,19102,45255,0.2719,0.497,0
+X,text,Politics,en,Pakistan,798948,133158,10947,82995,0.2842,0.653,0
+YouTube Shorts,video,Politics,fr,Brazil,1058321,96211,12727,12925,0.1151,0.091,0
+X,carousel,Politics,es,UK,1077972,76998,18302,30449,0.1167,0.03,0
+X,video,Education,en,UK,4457271,342867,22676,25185,0.0877,-0.358,1
+Instagram,image,Education,hi,Brazil,1161270,50490,29510,59558,0.1202,-0.184,0
+X,carousel,Education,hi,India,368192,23012,36924,80772,0.3822,-0.505,0
+X,video,Education,fr,India,2241584,140099,28149,96547,0.1181,-0.971,1
+YouTube Shorts,carousel,Sports,hi,US,3520314,251451,11923,65429,0.0934,0.656,1
+YouTube Shorts,carousel,Politics,fr,US,4002854,235462,29597,10648,0.0689,-0.837,1
+YouTube Shorts,video,Education,fr,US,2779424,347428,5440,8494,0.13,-0.428,1
+Instagram,image,Politics,en,India,7433512,256328,4925,19586,0.0378,-0.509,1
+YouTube Shorts,text,Lifestyle,en,India,1463375,292675,17913,29337,0.2323,0.478,0
+TikTok,image,Entertainment,es,UK,6117020,470540,4414,71320,0.0893,0.814,1
+YouTube Shorts,text,Politics,hi,Brazil,4233236,302374,16400,49347,0.087,0.779,1
+YouTube Shorts,text,Politics,en,US,1855176,109128,11777,89386,0.1134,-0.581,0
+YouTube Shorts,carousel,Entertainment,ur,India,3744500,187225,1925,43938,0.0622,0.89,1
+YouTube Shorts,carousel,Lifestyle,ur,Pakistan,3794977,164999,16203,75451,0.0676,-0.678,1
+Instagram,carousel,Lifestyle,hi,India,5651616,332448,20676,55162,0.0722,-0.849,1
+YouTube Shorts,carousel,Education,hi,Brazil,1005459,47879,16890,92245,0.1562,-0.324,0
+X,text,Lifestyle,es,Pakistan,4076430,407643,48349,947,0.1121,-0.225,1
+TikTok,video,Sports,es,US,3373587,374843,25944,49146,0.1334,0.496,1
+TikTok,video,Entertainment,fr,UK,6451992,268833,34817,93665,0.0616,-0.424,1
+TikTok,video,Entertainment,en,Brazil,1549152,96822,47689,30112,0.1127,0.024,0
+YouTube Shorts,image,Sports,en,US,8336328,378924,41271,51013,0.0565,-0.819,1
+X,video,Sports,en,UK,4694608,293413,45646,22991,0.0771,0.967,1
+Instagram,video,Lifestyle,en,UK,2044695,136313,38761,13778,0.0924,0.806,1
+Instagram,carousel,Politics,ur,US,1440656,90041,11831,13891,0.0804,-0.033,0
+X,carousel,Technology,ur,UK,11580374,445399,40550,65734,0.0476,0.072,1
+Instagram,carousel,Politics,ur,UK,8668622,298918,37265,42499,0.0437,0.632,1
+Instagram,video,Sports,en,Brazil,5707257,335721,14393,5570,0.0623,-0.582,1
+TikTok,image,Entertainment,ur,Pakistan,5610377,295283,19900,83692,0.0711,-0.203,1
+YouTube Shorts,image,Education,en,US,802560,33440,39855,56985,0.1623,0.139,0
+TikTok,carousel,Entertainment,en,US,2861256,119219,23230,95287,0.0831,0.121,1
+TikTok,carousel,Sports,fr,UK,4033484,144053,9592,93801,0.0613,-0.142,1
+X,carousel,Technology,en,US,4434360,295624,46976,17072,0.0811,-0.374,1
+Instagram,video,Sports,fr,UK,7142727,375933,42572,15621,0.0608,0.311,1
+Instagram,video,Education,ur,US,9753125,390125,6323,94231,0.0503,0.426,1
+Instagram,video,Lifestyle,hi,UK,6763829,355991,27122,36379,0.062,0.065,1
+Instagram,text,Sports,fr,Pakistan,14371791,495579,45956,22670,0.0393,-0.011,1
+YouTube Shorts,video,Entertainment,en,Pakistan,8806886,400313,38006,60409,0.0566,-0.039,1
+X,carousel,Politics,es,Pakistan,6407730,457695,29926,57867,0.0851,-0.323,1
+X,video,Lifestyle,en,India,6272527,330133,23826,37568,0.0624,0.938,1
+X,video,Entertainment,ur,Pakistan,2803424,107824,4797,55983,0.0601,0.636,1
+Instagram,carousel,Politics,hi,US,3732372,311031,35493,74442,0.1128,-0.98,1
+TikTok,carousel,Politics,hi,Pakistan,1078144,134768,44248,6169,0.1718,-0.29,0
+TikTok,video,Education,ur,Pakistan,3565460,178273,3912,99112,0.0789,0.655,1
+X,carousel,Politics,en,India,5364320,268216,15887,66395,0.0653,-0.662,1
+YouTube Shorts,carousel,Technology,ur,Pakistan,1766548,126182,47558,63457,0.1343,0.107,0
+TikTok,image,Politics,en,US,7577053,445709,550,29431,0.0628,0.058,1
+TikTok,image,Politics,en,Pakistan,201666,10614,47461,7234,0.3238,0.748,0
+YouTube Shorts,video,Lifestyle,es,Brazil,872652,145442,30913,15524,0.2199,0.548,0
+TikTok,carousel,Technology,hi,Brazil,4214434,301031,48236,62947,0.0978,0.315,1
+X,video,Entertainment,es,Pakistan,1913526,318921,32935,73314,0.2222,0.056,0
+YouTube Shorts,video,Education,en,Pakistan,2590160,259016,28607,53332,0.1316,0.52,1
+YouTube Shorts,video,Sports,ur,Brazil,906108,129444,11765,99251,0.2654,-0.381,0
+X,image,Education,ur,Pakistan,1131620,80830,4956,28334,0.1008,0.348,0
+TikTok,video,Lifestyle,ur,UK,9741844,347923,2108,65902,0.0427,-0.349,1
+YouTube Shorts,carousel,Entertainment,fr,India,1195545,91965,46897,81819,0.1846,-0.815,0
+Instagram,text,Lifestyle,hi,US,1014025,40561,8269,78223,0.1253,-0.954,0
+Instagram,text,Technology,es,Pakistan,1825470,182547,20911,19573,0.1222,-0.596,0
+YouTube Shorts,video,Sports,ur,UK,1564178,223454,14021,25023,0.1678,0.078,0
+Instagram,video,Politics,fr,India,1445500,103250,6736,48137,0.1094,0.674,0
+X,text,Sports,en,Pakistan,619237,21353,48568,26391,0.1555,-0.205,0
+TikTok,carousel,Technology,ur,US,6357626,288983,47713,53020,0.0613,-0.369,1
+TikTok,text,Politics,hi,US,6482720,324136,20544,56631,0.0619,-0.097,1
+Instagram,carousel,Politics,fr,US,6126855,291755,15429,48822,0.0581,-0.726,1
+YouTube Shorts,video,Sports,en,India,8248800,329952,45931,16664,0.0476,-0.861,1
+X,image,Sports,hi,Brazil,8227008,457056,29989,73823,0.0682,-0.722,1
+YouTube Shorts,video,Technology,es,Pakistan,1145584,49808,9022,68345,0.111,0.758,0
+Instagram,image,Politics,en,Brazil,9234258,419739,43620,74708,0.0583,0.289,1
+Instagram,carousel,Entertainment,fr,US,247335,16489,41432,79580,0.5559,0.731,0
+YouTube Shorts,video,Politics,en,US,8521350,340854,4498,50086,0.0464,0.081,1
+YouTube Shorts,video,Lifestyle,en,UK,5622607,193883,41328,18753,0.0452,0.343,1
+YouTube Shorts,carousel,Lifestyle,fr,UK,367920,45990,6799,32889,0.2329,0.554,0
+Instagram,video,Sports,hi,Brazil,6213304,327016,15590,25560,0.0593,-0.99,1
+TikTok,video,Politics,en,Pakistan,3557465,187235,22399,67790,0.078,0.782,1
+X,text,Technology,ur,Brazil,893142,148857,41406,76909,0.2991,-0.455,0
+X,image,Lifestyle,es,India,2455544,188888,31697,81495,0.123,-0.988,1
+X,carousel,Technology,ur,Pakistan,3275397,121311,9068,835,0.0401,0.788,1
+TikTok,image,Education,ur,Pakistan,1909494,106083,8213,56492,0.0894,0.83,0
+Instagram,carousel,Technology,fr,Brazil,2533464,281496,10712,34207,0.1288,-0.09,1
+TikTok,image,Education,hi,Brazil,2410727,219157,14804,60103,0.122,0.855,1
+YouTube Shorts,carousel,Lifestyle,fr,Brazil,1590980,159098,37684,98708,0.1857,-0.787,0
+TikTok,carousel,Lifestyle,fr,US,2451904,87568,34599,76958,0.0812,0.065,1
+YouTube Shorts,image,Lifestyle,hi,India,2157820,107891,24295,46074,0.0826,0.103,1
+Instagram,carousel,Sports,fr,US,3043566,338174,26877,41709,0.1336,-0.927,1
+X,carousel,Entertainment,en,Brazil,7926093,293559,1304,4995,0.0378,0.463,1
+YouTube Shorts,text,Lifestyle,hi,UK,7629740,381487,10497,54798,0.0586,-0.125,1
+YouTube Shorts,text,Sports,ur,US,10090288,388088,47999,99576,0.0531,0.25,1
+TikTok,carousel,Lifestyle,en,India,673095,29265,1672,91750,0.1823,0.616,0
+Instagram,video,Technology,es,UK,731075,146215,41851,77262,0.3629,0.931,0
+Instagram,image,Politics,ur,Pakistan,7441800,496120,1177,58233,0.0746,0.409,1
+Instagram,carousel,Education,fr,India,18856,2357,27369,24973,2.9009,0.701,0
+YouTube Shorts,image,Lifestyle,ur,US,5400538,234806,38283,64028,0.0624,-0.652,1
+YouTube Shorts,text,Sports,fr,US,1560383,141853,7372,3229,0.0977,-0.286,0
+X,carousel,Lifestyle,fr,UK,2858440,219880,32999,15037,0.0937,0.638,1
+X,video,Lifestyle,en,Brazil,4314420,479380,48909,1169,0.1227,-0.961,1
+X,video,Technology,ur,India,5862631,254897,26572,32377,0.0535,0.133,1
+Instagram,carousel,Sports,fr,India,5954445,283545,8798,1621,0.0494,0.782,1
+YouTube Shorts,text,Sports,es,US,2473905,164927,40395,23712,0.0926,-0.536,1
+YouTube Shorts,video,Technology,ur,US,3084120,257010,20625,42728,0.1039,0.538,1
+TikTok,video,Entertainment,es,India,5172150,344810,29339,14572,0.0752,-0.36,1
+Instagram,text,Education,hi,UK,7749246,455838,38717,64552,0.0721,-0.57,1
+YouTube Shorts,video,Education,en,Brazil,1853065,370613,20923,28380,0.2266,0.665,0
+TikTok,carousel,Politics,fr,Brazil,5398435,317555,46582,65868,0.0797,0.707,1
+TikTok,image,Politics,ur,UK,2080900,208090,14601,33573,0.1232,0.548,1
+X,video,Lifestyle,hi,US,1510730,58105,20719,58713,0.091,0.079,0
